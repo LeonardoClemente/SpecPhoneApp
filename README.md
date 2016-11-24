@@ -2,7 +2,7 @@
 Matlab implementation to help in the image processing for image spectroPhotometers (SpecPhone). 
 an image analysis application was developed using MATLAB software. 
 
-Authors : Leonardo Clemente (clemclem1991@gmail.com), Arturo Cevallos (cev.arturo@gmail.com), Luis garza (luis.garza.seriously@gmail.com
+Authors : Leonardo Clemente (clemclem1991@gmail.com), Arturo Cevallos (cev.arturo@gmail.com), Luis garza (luis.garza.seriously@gmail.com)
 
 The principal focus of the SpecPhone app is centered in the calculation of intensity and absorbance profiles for each of the samples taken, but it can be also used for reaction kinetics analysis.
 
